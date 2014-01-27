@@ -1,4 +1,4 @@
-update=1/23/2014 11:58:36 PM
+update=1/26/2014 7:44:35 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,6 +6,36 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[pcbnew]
+version=1
+LastNetListRead=
+PadDrlX=320
+PadDimH=550
+PadDimV=550
+BoardThickness=620
+TxtPcbV=600
+TxtPcbH=600
+TxtModV=500
+TxtModH=500
+TxtModW=100
+VEgarde=100
+DrawLar=120
+EdgeLar=80
+TxtLar=120
+MSegLar=120
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=led
+LibName9=dip_sockets
+LibName10=pga_sockets
+LibName11=valves
 [eeschema]
 version=1
 LibDir=
@@ -45,35 +75,13 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[pcbnew]
-version=1
-LastNetListRead=
-PadDrlX=320
-PadDimH=550
-PadDimV=550
-BoardThickness=620
-TxtPcbV=600
-TxtPcbH=600
-TxtModV=500
-TxtModH=500
-TxtModW=100
-VEgarde=100
-DrawLar=120
-EdgeLar=80
-TxtLar=120
-MSegLar=120
-[pcbnew/libraries]
-LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=led
-LibName9=dip_sockets
-LibName10=pga_sockets
-LibName11=valves
+LibName31=C:/Users/josh/Electronics/Kicad/Kicad Libary/accelerometer
+LibName32=C:/Users/josh/Electronics/Kicad/Kicad Libary/Audio
+LibName33=C:/Users/josh/Electronics/Kicad/Kicad Libary/device
+LibName34=C:/Users/josh/Electronics/Kicad/Kicad Libary/GTB
+LibName35=C:/Users/josh/Electronics/Kicad/Kicad Libary/LEDs
+LibName36=C:/Users/josh/Electronics/Kicad/Kicad Libary/op-amp
+LibName37=C:/Users/josh/Electronics/Kicad/Kicad Libary/redrawnDevice
+LibName38=C:/Users/josh/Electronics/Kicad/Kicad Libary/Video
 [general]
 version=1
